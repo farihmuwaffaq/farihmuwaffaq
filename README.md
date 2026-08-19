@@ -19,8 +19,9 @@ I build data systems that move teams from reporting to action — connecting fra
 
 ## 📊 GitHub Stats
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=farihmuwaffaq&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=default" alt="GitHub stats" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farihmuwaffaq&layout=compact&hide_border=true&theme=default" alt="Top languages" />
+![Followers](https://img.shields.io/github/followers/farihmuwaffaq?label=Followers&style=flat&color=1d6f4f)
+![Repos](https://img.shields.io/badge/Public%20Repos-5-1d6f4f)
+![Focus](https://img.shields.io/badge/Focus-Data%20Analytics%20%26%20BI-1d6f4f)
 
 ## 📫 Connect
 
