@@ -1,32 +1,47 @@
-# Hi, I'm Farih Muwaffaq 👋
+# Farih Muwaffaq
 
-**Data Analyst** — Analytics Automation · Business Intelligence
-📍 Jakarta, Indonesia
+**Data Analyst building governed analytics systems, decision tools, and reporting automation.**
 
-I build data systems that move teams from reporting to action — connecting fragmented data, automating repetitive reporting, and framing analysis around the decisions people actually have to make.
+Jakarta, Indonesia
 
-## 🛠 Stack
+I turn fragmented commercial and operational data into trusted systems people can use to make decisions. My work spans data modeling, business intelligence, analytical automation, and the governance needed to keep outputs reliable.
 
-**Data & Query** — SQL (PostgreSQL · MySQL) · Google BigQuery
-**Analysis** — Python (pandas · NumPy · scikit-learn) · Jupyter
-**BI & Viz** — Tableau · Power BI · Looker Studio · Metabase
-**Automation** — Google Apps Script · Excel · Google Sheets
+[Portfolio](https://farih-portfolio.vercel.app) / [LinkedIn](https://www.linkedin.com/in/farihmuwaffaq) / [Email](mailto:farihmuwaffaq@gmail.com)
 
-## 📌 Featured
+## Selected systems
 
-- [**farih-portfolio**](https://github.com/farihmuwaffaq/farih-portfolio) — Technical-editorial portfolio site built with Astro, deployed on Vercel.
-- [**nexus-bi-platform**](https://github.com/farihmuwaffaq/nexus-bi-platform) — Internal BI & decision platform: governed BigQuery analytics, RBAC + row-level security, dashboards, sales extrapolation (Google Apps Script).
-- [**shopee-pricing-tracker**](https://github.com/farihmuwaffaq/shopee-pricing-tracker) — NPD price-tracking automation & dashboard across online/offline channels (Apps Script + Sheets).
-- [**powerbi-stock-model**](https://github.com/farihmuwaffaq/powerbi-stock-model) — Stock/inventory dashboard data model & BigQuery pipeline: WOI, alert status, channel reconciliation (Power BI / Looker Studio).
-- [**ID/X Partners Data Scientist Project**](https://github.com/farihmuwaffaq/ID-X-Partners-Data-Scientist-Project-Based-Internship) — Credit risk modeling on loan data. Random Forest, **AUC 0.857 · KS 0.5675**.
+### 01 / [NEXUS Business Intelligence Platform](https://github.com/farihmuwaffaq/nexus-bi-platform)
 
-## 📊 GitHub Stats
+A governed interface for exploring and acting on warehouse data without requiring every business user to write SQL. The sanitized showcase documents BigQuery analytics, role-based access, row-level security, dashboards, and sales extrapolation.
 
-![Followers](https://img.shields.io/github/followers/farihmuwaffaq?label=Followers&style=flat&color=1d6f4f)
-![Focus](https://img.shields.io/badge/Focus-Data%20Analytics%20%26%20BI-1d6f4f)
-![Stack](https://img.shields.io/badge/Stack-SQL%20%C2%B7%20Python%20%C2%B7%20BI-1d6f4f)
+`BigQuery` `Google Apps Script` `RBAC` `Row-level security`
 
-## 📫 Connect
+### 02 / [Stock Health Data Model](https://github.com/farihmuwaffaq/powerbi-stock-model)
 
-- 🌐 Portfolio — [farih-portfolio.vercel.app](https://farih-portfolio.vercel.app)
-- 💼 LinkedIn — [linkedin.com/in/farihmuwaffaq](https://www.linkedin.com/in/farihmuwaffaq)
+A BigQuery model and reporting pipeline that reconciles warehouse, distributor, and in-transit stock across channels. It supports weeks-of-inventory, alert status, and stock-coverage analysis in Power BI and Looker Studio.
+
+`SQL` `BigQuery` `Power BI` `Looker Studio`
+
+### 03 / [NPD Pricing Tracker](https://github.com/farihmuwaffaq/shopee-pricing-tracker)
+
+An automated pricing snapshot and dashboard system for monitoring SKU prices across online and offline channels against target SRP. Shared data is synthetic; operational identifiers and live sources are excluded.
+
+`Google Apps Script` `Google Sheets` `Automation` `Commercial analytics`
+
+## Operating range
+
+| Layer | Capability |
+| --- | --- |
+| Data foundations | SQL, PostgreSQL, MySQL, BigQuery, data modeling, validation |
+| Analysis | Python, pandas, NumPy, scikit-learn, Excel, Google Sheets |
+| Decision systems | Power BI, Tableau, Looker Studio, Metabase |
+| Automation | Google Apps Script, reporting workflows, API integration |
+| Business domains | Commercial, inventory, operations, and marketing analytics |
+
+## More evidence
+
+- [Portfolio case studies](https://farih-portfolio.vercel.app/work) - nine projects with explicit problem, system, outcome, and evidence boundaries.
+- [Loan default modeling](https://github.com/farihmuwaffaq/ID-X-Partners-Data-Scientist-Project-Based-Internship) - project-based credit-risk analysis and model evaluation.
+- [Portfolio source](https://github.com/farihmuwaffaq/farih-portfolio) - static Astro portfolio with validated content collections and progressive interaction systems.
+
+Most professional repositories are sanitized showcases. Raw operational data, credentials, customer identifiers, and private infrastructure are intentionally excluded.
